@@ -14,6 +14,8 @@ I'm dotnet developer, currently studying and looking for work.
   
 - :zap: Would like to learn JavaScript/TypeScript.
 
+- :telescope: Would love to be involved in some projects.
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
