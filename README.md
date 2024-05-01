@@ -28,5 +28,7 @@ I'm dotnet developer, currently studying and looking for work.
   <img src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-plain.svg" title="Rider" alt="Rider" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
+          
+          
 </div>
