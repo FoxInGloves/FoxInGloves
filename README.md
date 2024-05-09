@@ -11,7 +11,7 @@
 
 I'm dotnet developer, currently studying and looking for work.
 
-<img src="https://www.codewars.com/users/FoxInGlowes/badges/large" title="CodeWars" alt="CodeWars"/>
+<img src="https://www.codewars.com/users/FoxInGloves/badges/large" title="CodeWars" alt="CodeWars"/>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="25" height="25" /> I'm currently a 4th year programmer student.
   
