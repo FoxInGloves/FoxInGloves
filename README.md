@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="32" height="32" /> About me :
 
-I'm dotnet developer, currently studying and looking for work.
+I'm DotNET developer, currently studying and looking for work.
 
 <img src="https://www.codewars.com/users/FoxInGloves/badges/large" title="CodeWars" alt="CodeWars"/>
 
