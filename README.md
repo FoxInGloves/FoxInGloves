@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="750" height="400"/>
   <p></p>
-  <img src="https://visitcount.itsvg.in/api?id=FoxInGloves&label=Profile%20Views&pretty=true" />
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Light%20Skin%20Tone.png" alt="Man Technologist Medium-Light Skin Tone" width="32" height="32" /> About me :
